@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<h1>Snow Crashed</h1>
